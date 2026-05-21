@@ -10,10 +10,29 @@ const firebaseConfig = {
   appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID || "1:000000000000:web:0000000000000000000000",
 };
 
-// Initialize Firebase only once
-const app = getApps().length === 0 ? initializeApp(firebaseConfig) : getApp();
+let app: any;
+let auth: any;
+const googleProvider = new GoogleAuthProvider();
 
-export const auth = getAuth(app);
-export const googleProvider = new GoogleAuthProvider();
+try {
+  // Initialize Firebase client-side safely
+  app = getApps().length === 0 ? initializeApp(firebaseConfig) : getApp();
+  auth = getAuth(app);
+} catch (err) {
+  console.error("Firebase Initialization Safe-Guard caught an error during boot:", err);
+  
+  // Safe mock object to prevent SSR or blocking crashes
+  app = {} as any;
+  auth = {
+    onAuthStateChanged: () => {
+      console.warn("Firebase Auth fallback onAuthStateChanged active.");
+      return () => {};
+    },
+    signOut: async () => {
+      console.warn("Firebase Auth fallback signOut called.");
+    }
+  } as any;
+}
 
+export { app, auth, googleProvider };
 export default app;

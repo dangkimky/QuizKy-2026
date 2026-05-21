@@ -2,6 +2,7 @@
 
 import React, { useEffect, useState, useRef } from "react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 import { useGameStore, GameMode, UITheme, ParticleType, PETS } from "@/store/gameStore";
 import { auth } from "@/lib/firebase";
 import { onAuthStateChanged } from "firebase/auth";
@@ -361,15 +362,15 @@ export default function Home() {
                 </div>
               </div>
             ) : (
-              <button
-                onClick={() => router.push("/login")}
+              <Link
+                href="/login"
                 style={{ borderColor: themeConfig.borderColor }}
                 className="p-2 px-3 rounded-xl bg-slate-900 border text-[10px] font-mono font-bold text-slate-200 hover:text-indigo-300 cursor-pointer flex items-center gap-1.5"
                 title="Đăng nhập để lưu tiến trình"
               >
                 <User className="w-3.5 h-3.5 text-indigo-400" />
                 <span className="hidden sm:inline">Đăng nhập</span>
-              </button>
+              </Link>
             )}
           </div>
         </header>

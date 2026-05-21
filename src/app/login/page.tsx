@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import { 
   Lock, 
@@ -394,13 +395,13 @@ export default function LoginPage() {
               {isRegister ? "Đã có tài khoản? Đăng nhập ngay" : "Chưa có tài khoản đấu sĩ? Tạo mới ngay"}
             </button>
 
-            <button
-              onClick={() => router.push("/")}
+            <Link
+              href="/"
               className="flex items-center gap-1 text-slate-500 hover:text-slate-300 font-bold transition-colors cursor-pointer uppercase tracking-wider text-[10px] font-mono mt-1"
             >
               <ArrowLeft className="w-3.5 h-3.5" />
               <span>Chơi với tư cách khách (Guest)</span>
-            </button>
+            </Link>
           </div>
 
         </div>
