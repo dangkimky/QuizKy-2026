@@ -1,0 +1,61 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Quiz {
+  id            String   @id @default(uuid())
+  title         String
+  description   String?
+  questionsJson String   @db.Text // JSON array of questions
+  configJson    String   @db.Text // JSON string of quiz-specific settings
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model Player {
+  id          String   @id @default("default-player")
+  name        String   @default("QuizMaster")
+  level       Int      @default(1)
+  exp         Int      @default(0)
+  activePet   String   @default("none")
+  activeTheme String   @default("cyberpunk")
+  statsJson   String?  @db.Text // Store full advanced PlayerStats as JSON
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Pet {
+  id             String  @id
+  name           String
+  description    String
+  buffType       String  // EXP, SCORE
+  buffMultiplier Float   // e.g. 1.2 for +20%
+  sprite         String  // Sprite ID or path
+  unlocked       Boolean @default(false)
+}
+
+model Achievement {
+  id          String    @id
+  title       String
+  description String
+  icon        String
+  unlockedAt  DateTime? // null if locked
+}
+
+model HistoryRecord {
+  id             String   @id @default(uuid())
+  playerId       String   @default("default-player")
+  quizId         String
+  quizTitle      String
+  score          Float
+  correctCount   Int
+  totalQuestions Int
+  mode           String
+  expGained      Int
+  playedAt       DateTime @default(now())
+}

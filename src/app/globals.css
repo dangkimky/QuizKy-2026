@@ -1,0 +1,92 @@
+@import "tailwindcss";
+
+:root {
+  --background: #080710;
+  --foreground: #f3f4f6;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+  transition: background 0.3s ease;
+}
+
+/* Custom retro high-tech scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(8, 7, 16, 0.9);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3b82f6;
+  border-radius: 99px;
+  box-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1d4ed8;
+}
+
+/* CSS Keyframes for visually rich aesthetics */
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    opacity: 0.35;
+    box-shadow: 0 0 10px var(--glow-color, rgba(99, 102, 241, 0.4));
+  }
+  50% {
+    opacity: 0.8;
+    box-shadow: 0 0 25px var(--glow-color, rgba(99, 102, 241, 0.7));
+  }
+}
+
+@keyframes float-companion {
+  0%, 100% {
+    transform: translateY(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-12px) rotate(2deg);
+  }
+}
+
+/* Custom class utilities */
+.glow-card-pulse {
+  animation: pulse-glow 3s infinite ease-in-out;
+}
+
+.float-companion-anim {
+  animation: float-companion 4s infinite ease-in-out;
+}
+
+/* Video BG overlay filling the viewport behind panels */
+.video-bg-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.video-bg-container video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.35;
+  filter: contrast(1.1) brightness(0.8) saturate(1.2);
+}

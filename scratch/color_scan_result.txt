@@ -1,0 +1,135 @@
+--- QUÉT TOÀN BỘ FILE XML ĐỂ KIỂM TRA ĐÁP ÁN ĐÚNG ---
+
+Tổng số thẻ w:p: 1847
+Tổng số đoạn văn có chữ: 1609
+
+Tổng số câu hỏi trắc nghiệm ghép được: 313
+
+--- CHI TIẾT 10 CÂU HỎI ĐẦU TIÊN ---
+
+Câu 1: Câu 1 (CLO1.1): Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?
+  A. Hệ tư tưởng Đức
+  B. Tình cảnh giai cấp lao động ở Anh
+  C. Tuyên ngôn của Đảng cộng sản [RED]
+  D. Những nguyên lý của chủ nghĩa cộng sản[&lt;br&gt;]
+
+Câu 2: Câu 2 (CLO1.1): Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?
+  A. Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa. [RED]
+  B. Là những quy luật hình thành, phát triển và hoàn thiện của các hình thái kinh tế - xã hội
+  C. Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội chủ nghĩa xã hội
+  D. Là những quy luật hình thành, phát triển và hoàn thiện của các nhà nước[&lt;br&gt;]
+
+Câu 3: Câu 3 (CLO1.1): Ai đã đưa ra quan niệm “CNXH là sự phản kháng và đấu tranh chống sự bóc lột người lao động, một cuộc đấu tranh nhằm hoàn toàn xoá bỏ sự bóc lột”?
+  A. S.Phuriê
+  B. C.Mác
+  C. Ph.Ănghen
+  D. V.I.Lênin[&lt;br&gt;] [RED]
+
+Câu 4: Câu 4 (CLO1.1): Ai được coi là người mở đầu các trào lưu xã hội chủ nghĩa và cộng sản chủ nghĩa thời cận đại?
+  A. Tômađô Campanenla
+  B. Tômát Morơ [RED]
+  C. Arítxtốt
+  D. Platôn[&lt;br&gt;]
+
+Câu 5: Câu 5 (CLO1.1): Tư tưởng về “Giang sơn ngàn năm của Chúa” xuất hiện ở thời đại nào?
+  A. Công xã nguyên thuỷ
+  B. Thời cổ đại [RED]
+  C. Thời cận đại
+  D. Thời phục hưng[&lt;br&gt;]
+
+Câu 6: Câu 6 (CLO1.1): Những nhà tư tưởng tiêu biểu của chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX là ai?
+  A. Grắccơ Babớp, Xanh Ximông, SáLơ Phuriê
+  B. Xanh Ximông, SáLơ Phuriê, G. Mably
+  C. Xanh Ximông, SáLơ Phuriê, Rôbớt Ôoen [RED]
+  D. Xanh Ximông, Giăng Mêliê, Rôbớt Ôoen[&lt;br&gt;]
+
+Câu 7: Câu 7 (CLO1.1): Nhà tư tưởng xã hội chủ nghĩa không tưởng nào đã nói đến vấn đề giai cấp và xung đột giai cấp?
+  A. Xanh Ximông [RED]
+  B. SáLơ Phuriê
+  C. Rôbớt Ôoen
+  D. Grắccơ Babớp[&lt;br&gt;]
+
+Câu 8: Câu 8 (CLO1.1): Nhà tư tưởng xã hội chủ nghĩa nào đã tố cáo quá trình tích luỹ tư bản chủ nghĩa bằng hình ảnh “cừu ăn thịt người”?
+  A. Tômát Morơ [RED]
+  B. SáLơ Phuriê
+  C. Rôbớt Ôoen
+  D. Grắccơ Babớp[&lt;br&gt;]
+
+Câu 9: Câu 9 (CLO1.1): Ai đã nêu ra tư tưởng: trình độ giải phóng xã hội được đo bằng trình độ giải phóng phụ nữ?
+  A. Xanh Ximông
+  B. SáLơ Phuriê [RED]
+  C. Grắccơ Babớp
+  D. Rôbớt Ôoen[&lt;br&gt;]
+
+Câu 10: Câu 10 (CLO1.1): Nhà tư tưởng xã hội chủ nghĩa nào đã tiến hành thực nghiệm xã hội cộng sản trong lòng xã hội tư bản?
+  A. Xanh Ximông
+  B. SáLơ Phuriê
+  C. Grắccơ Babớp
+  D. Rôbớt Ôoen[&lt;br&gt;] [RED]
+
+--- CHI TIẾT 10 CÂU HỎI TỪ CÂU 68 ---
+
+Câu 68: Câu 68 (CLO3.1). Lý luận về hình thái kinh tế - xã hội do C.Mác và Ph.Ăngghen khởi xướng, được V.I.Lênin bổ sung, phát triển, cụ thể hóa trong công cuộc xây dựng chủ nghĩa xã hội ở đâu?
+  A. Nước Nga Xô viết [HIGHLIGHT]
+  B. Nước Việt Nam
+  C. Nước Trung Quốc
+  D. Nước Nga[&lt;br&gt;]
+
+Câu 69: Câu 69 (CLO3.1). Cơ sở xác lập lý luận về các hình thái kinh tế - xã hội là gì?
+  A. Chủ nghĩa duy vật lịch sử [HIGHLIGHT]
+  B. Chủ nghĩa duy vật
+  C. Học thuyết giá trị thặng dư
+  D. Thế giới quan duy vật [&lt;br&gt;]
+
+Câu 70: Câu 70 (CLO3.1). Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực chính trị là gì?
+  A. Không còn tồn tại giai cấp
+  B. Kết cấu giai cấp của xã hội thuần nhất
+  C. Các giai cấp trong xã hội tồn tại với những lợi ích không còn đối kháng nhau [HIGHLIGHT]
+  D. Kết cấu giai cấp của xã hội đa dạng, phức tạp [&lt;br&gt;]
+
+Câu 71: Câu 71 (CLO3.1). Tiền đề và điều kiện quan trọng cho sự ra đời của hình thái kinh tế – xã hội cộng sản chủ nghĩa?
+  A. Sự phát triển của lực lượng sản xuất và sự trưởng thành thực sự của giai cấp công nhân [HIGHLIGHT]
+  B. Sự lớn mạnh của giai cấp vô sản.
+  C. Giai cấp công nhân trưởng thành và trở thành một lực lượng chính trị độc lập
+  D. Sự phát triển của quan hệ sản xuất tư bản chủ nghĩa .
+
+Câu 72: Câu 72 (CLO3.1). Theo CNXHKH, chủ nghĩa xã hội phải được &quot;thoát thai&quot;, &quot;lọt lòng&quot; từ xã hội nào?
+  A. Quốc gia chưa trải qua giai đoạn phát triển tư bản chủ nghĩa
+  B. Chủ nghĩa tư bản [HIGHLIGHT]
+  C. Phong kiến thuộc địa
+  D. Những nước tư bản trung bình hoặc kém phát triển
+
+Câu 73: Câu 73 (CLO3.1). Theo CNXHKH, tiền đề kinh tế – xã hội dẫn tới sự sụp đổ không tránh khỏi của phương thức sản xuất tư bản chủ nghĩa là gì?
+  A. Sự phát triển về lực lượng sản xuất và sự trưởng thành của giai cấp công nhân [HIGHLIGHT]
+  B. Sự ra đời của Đảng cộng sản
+  C. Liên minh công - nông bền chặt
+  D. Lý luận khoa học soi đường
+
+Câu 74: Câu 74 (CLO3.1). Cuộc cách mạng vô sản là cuộc cách mạng của giai cấp nào?
+  A. Giai cấp tư sản và nhân dân lao động
+  B. Giai cấp nông dân và tri thức
+  C. Giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của đảng cộng sản [HIGHLIGHT]
+  D. Giai cấp địa chủ và nông dân
+
+Câu 75: Câu 75 (CLO3.1). Đặc trưng về phương diện kinh tế của Chủ nghĩa xã hội là gì?
+  A. Chủ nghĩa xã hội có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu. [HIGHLIGHT]
+  B. Chủ nghĩa xã hội có một nền sản xuất công nghiệp hiện đại
+  C. Chủ nghĩa xã hội có cách thức tổ chức lao động tiên tiến
+  D. Chủ nghĩa xã hội có kỷ luật lao động mới với năng suất cao
+
+Câu 76: Câu 76 (CLO3.1). Theo quan điểm của của CN.XHKH, có những hình thức quá độ nào từ CNTB lên CNCS?
+  A. Quá độ trực tiếp và quá độ gián tiếp [HIGHLIGHT]
+  B. Quá độ trung gian
+  C. Quá độ trực tiếp
+  D. Không qua hình thức quá độ
+
+Câu 77: Câu 77 (CLO3.1). Theo quan điểm của CN.XHKH, hình thái kinh tế - xã hội phát triển cao nhất, kết tinh của văn minh nhân loại là?
+  A. Tư bản chủ nghĩa
+  B. Cộng sản chủ nghĩa
+  C. Xã hội chủ nghĩa [HIGHLIGHT]
+  D. Thời kỳ quá độ
+
+--- THỐNG KÊ TOÀN BỘ ---
+- Số câu hỏi có đáp án bôi đỏ: 232
+- Số câu hỏi có đáp án highlight: 80
+- Số câu hỏi không có đánh dấu nào: 1

@@ -1,0 +1,12 @@
+Độ dài toàn bộ XML: 2643744 ký tự
+
+--- PHÂN TÍCH CÁC THẺ MÀU SẮC / ĐỊNH DẠNG ĐẶC BIỆT TRONG XML ---
+Các mã màu được sử dụng trong file: ["666666","B2B2B2","4C4C4C","FF0000","000000"]
+Tần suất mã màu: {"666666":4,"B2B2B2":29,"4C4C4C":1,"FF0000":4072,"000000":1476}
+
+Số lượng thẻ gạch chân <w:u> tìm thấy: 0
+Các màu highlight được sử dụng: ["cyan","green"]
+Số lượng highlight: 2777
+
+--- IN ĐOẠN XML CHỨA CÂU 24 VÀ CÁC ĐÁP ÁN ĐỂ XEM ĐỊNH DẠNG ---
+Không tìm thấy nội dung mẫu trong XML!

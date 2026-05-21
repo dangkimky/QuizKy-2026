@@ -1,0 +1,155 @@
+--- KIỂM TRA HỆ THỐNG HIGHLIGHT XÁC ĐỊNH ĐÁP ÁN ĐÚNG ---
+
+Tổng số đoạn văn <w:p> tìm thấy: 1847
+
+Duyệt qua 150 đoạn văn đầu tiên chứa nội dung:
+[P 1]: Cnxhkh 300cautracnghiem
+[P 2]: Chủ nghĩa xã hội khoa học (TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP TP. HỒ CHÍ MINH)
+[P 3]: messages.pdf_cover_qr_code_label
+[P 4]: messages.studocu_not_sponsored_or_endorsed_by_college
+[P 5]: CHƯƠNG 1: NHẬP MÔN CHỦ NGHĨA XÃ HỘI KHOA HỌC
+[P 6]: Câu 1 (CLO1.1): Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?
+[P 7]: Hệ tư tưởng Đức
+[P 8]: Tình cảnh giai cấp lao động ở Anh
+[P 9]: Tuyên ngôn của Đảng cộng sản
+[P 10]: Những nguyên lý của chủ nghĩa cộng sản[&lt;br&gt;]
+[P 11]: Câu 2 (CLO1.1): Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?
+[P 12]: Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa.
+[P 13]: Là những quy luật hình thành, phát triển và hoàn thiện của các hình thái kinh tế - xã hội
+[P 14]: Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội chủ nghĩa xã hội
+[P 15]: Là những quy luật hình thành, phát triển và hoàn thiện của các nhà nước[&lt;br&gt;]
+[P 16]: Câu 3 (CLO1.1): Ai đã đưa ra quan niệm “CNXH là sự phản kháng và đấu tranh chống sự bóc lột người lao động, một cuộc đấu tranh nhằm hoàn toàn xoá bỏ sự bóc lột”?
+[P 17]: S.Phuriê
+[P 18]: C.Mác
+[P 19]: Ph.Ănghen
+[P 20]: V.I.Lênin[&lt;br&gt;]
+[P 21]: Câu 4 (CLO1.1): Ai được coi là người mở đầu các trào lưu xã hội chủ nghĩa và cộng sản chủ nghĩa thời cận đại?
+[P 22]: Tômađô Campanenla
+[P 23]: Tômát Morơ
+[P 24]: Arítxtốt
+[P 25]: Platôn[&lt;br&gt;]
+[P 26]: Câu 5 (CLO1.1): Tư tưởng về “Giang sơn ngàn năm của Chúa” xuất hiện ở thời đại nào?
+[P 27]: Công xã nguyên thuỷ
+[P 28]: Thời cổ đại
+[P 29]: Thời cận đại
+[P 30]: Thời phục hưng[&lt;br&gt;]
+[P 31]: Câu 6 (CLO1.1): Những nhà tư tưởng tiêu biểu của chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX là ai?
+[P 32]: Grắccơ Babớp, Xanh Ximông, SáLơ Phuriê
+[P 33]: Xanh Ximông, SáLơ Phuriê, G. Mably
+[P 34]: Xanh Ximông, SáLơ Phuriê, Rôbớt Ôoen
+[P 35]: Xanh Ximông, Giăng Mêliê, Rôbớt Ôoen[&lt;br&gt;]
+[P 36]: Câu 7 (CLO1.1): Nhà tư tưởng xã hội chủ nghĩa không tưởng nào đã nói đến vấn đề giai cấp và xung đột giai cấp?
+[P 37]: Xanh Ximông
+[P 38]: SáLơ Phuriê
+[P 39]: Rôbớt Ôoen
+[P 40]: Grắccơ Babớp[&lt;br&gt;]
+[P 41]: Câu 8 (CLO1.1): Nhà tư tưởng xã hội chủ nghĩa nào đã tố cáo quá trình tích luỹ tư bản chủ nghĩa bằng hình ảnh “cừu ăn thịt người”?
+[P 42]: Tômát Morơ
+[P 43]: SáLơ Phuriê
+[P 44]: Rôbớt Ôoen
+[P 45]: Grắccơ Babớp[&lt;br&gt;]
+[P 46]: Câu 9 (CLO1.1): Ai đã nêu ra tư tưởng: trình độ giải phóng xã hội được đo bằng trình độ giải phóng phụ nữ?
+[P 47]: Xanh Ximông
+[P 48]: SáLơ Phuriê
+[P 49]: Grắccơ Babớp
+[P 50]: Rôbớt Ôoen[&lt;br&gt;]
+[P 51]: Câu 10 (CLO1.1): Nhà tư tưởng xã hội chủ nghĩa nào đã tiến hành thực nghiệm xã hội cộng sản trong lòng xã hội tư bản?
+[P 52]: Xanh Ximông
+[P 53]: SáLơ Phuriê
+[P 54]: Grắccơ Babớp
+[P 55]: Rôbớt Ôoen[&lt;br&gt;]
+[P 56]: Câu 11 (CLO1.1): Tác phẩm “Tuyên ngôn của những người bình dân” là của ai?
+[P 57]: Tomát Morơ
+[P 58]: Tômađô Campanenla
+[P 59]: Giắccơ Babớp
+[P 60]: SáLơ Phuriê[&lt;br&gt;]
+[P 61]: Câu 12 (CLO4.2): Nguyên nhân chủ yếu của những hạn chế của chủ nghĩa xã hội không tưởng là?
+[P 62]: Do trình độ nhận thức của những nhà tư tưởng
+[P 63]: Do khoa học chưa phát triển
+[P 64]: Do những điều kiện lịch sử khách quan quy định
+[P 65]: Do lực lượng sản xuất chưa phát triển[&lt;br&gt;]
+[P 66]: Câu 13 (CLO4.2): Nội dung cơ bản nhất mà nhờ đó chủ nghĩa xã hội từ không tưởng trở thành khoa học là gì?
+[P 67]: Lên án mạnh mẽ chủ nghĩa tư bản
+[P 68]: Phản ánh đúng khát vọng của nhân dân lao động bị áp bức
+[P 69]: Phát hiện ra giai cấp công nhân là lực lượng xã hội có thể thủ tiêu CNTB, xây dựng CNXH
+[P 70]: Chỉ ra sự cần thiết phải thay thế chủ nghĩa tư bản bằng chủ nghĩa xã hội[&lt;br&gt;]
+[P 71]: Câu 14 (CLO1.2): Ph. Ăngghen đã đánh giá: “Hai phát hiện vĩ đại này đã đưa chủ nghĩa xã hội trở thành một khoa học”. Hai phát kiến đó là gì?
+[P 72]: Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử
+[P 73]: Sứ mệnh lịch sử của giai cấp công nhân – Học thuyết giá trị thặng dư
+[P 74]: Học thuyết giá trị thặng dư – Chủ nghĩa duy vật lịch sử
+[P 75]: Sứ mệnh lịch sử của giai cấp công nhân– Chủ nghĩa duy vật lịch sử[&lt;br&gt;]
+[P 76]: Câu 15 (CLO1.2): Vì sao chủ nghĩa xã hội khoa học theo nghĩa rộng là chủ nghĩa Mác - Lênin?
+[P 77]: Vì chủ nghĩa xã hội khoa học đã phác thảo ra mô hình chủ nghĩa xã hội và chủ nghĩa cộng sản
+[P 78]: Vì chủ nghĩa xã hội khoa học đã luận chứng về sứ mệnh lịch sử của giai cấp công nhân hiện đại
+[P 79]: Vì chủ nghĩa xã hội khoa học dựa vào triết học, kinh tế chính trị để lý giải tính tất yếu lịch sử của Cách mạng xã hội chủ nghĩa và Hình thái kinh tế – xã hội cộng sản chủ nghĩa gắn liền với vai trò lãnh đạo của giai cấp công nhân
+[P 80]: Vì chủ nghĩa xã hội khoa học là một bộ phận của chủ nghĩa Mác - Lênin[&lt;br&gt;]
+[P 81]: Câu 16 (CLO1.2): Những yếu tố tư tưởng XHCN được xuất hiện từ khi nào ?
+[P 82]: Chế độ tư bản chủ nghĩa ra đời
+[P 83]: Sự xuất hiện chế độ tư hữu, xuất hiện giai cấp thống trị và bóc lột
+[P 84]: Sự xuất hiện giai cấp công nhân
+[P 85]: Ngay từ thời công xã nguyên thuỷ[&lt;br&gt;]
+[P 86]: Câu 17 (CLO1.3): Phát hiện nào sau đây của C. Mác và Ph. Ăngghen?
+[P 87]: Chủ nghĩa duy vật lịch sử
+[P 88]: Học thuyết giá trị thặng dư
+[P 89]: Sứ mệnh lịch sử của giai cấp công nhân
+[P 90]: Chủ nghĩa duy vật lịch sử, học thuyết giá trị thặng dư, sứ mệnh lịch sử của giai cấp công nhân[&lt;br&gt;]
+[P 91]: Câu 18 (CLO3.1): Chủ nghĩa duy vật lịch sử và học thuyết giá trị thặng dư đã được C. Mác phát triển và trình bày một cách có hệ thống trong tác phẩm nào?
+[P 92]: Hệ tư tưởng Đức
+[P 93]: Tình cảnh của giai cấp lao động ở Anh
+[P 94]: Bộ Tư bản
+[P 95]: Những nguyên lý của chủ nghĩa cộng sản[&lt;br&gt;]
+[P 96]: Câu 19 (CLO1.3): Ai là người đầu tiên đưa chủ nghĩa xã hội từ khoa học thành thực tiễn sinh động?
+[P 97]: C.Mác
+[P 98]: Ph.Ănghen
+[P 99]: V.I. Lênin
+[P 100]: Hồ Chí Minh[&lt;br&gt;]
+[P 101]: Câu 20 (CLO1.3): C. Mác và Ph. Ăngghen có rất nhiều tác phẩm kinh điển cho nhân loại.
+[P 102]: Câu 21 (CLO1.3): Tiêu chí nào dùng để phân loại các tư tưởng xã hội chủ nghĩa?
+[P 103]: Câu 22 (CLO1.3): Nguyên nhân nào dẫn đến những hạn chế mà các trào lưu xã hội chủ nghĩa và cộng sản chủ nghĩa không tưởng mắc phải?
+[P 104]: Câu 23. Khi nghiên cứu về chủ nghĩa cộng sản, có một tác phẩm được coi là “cuốn bách khoa toàn thư thực sự của chủ nghĩa cộng sản”, là tác phẩm:
+[P 105]: Câu 24 (CLO2.1): Phạm trù nào được coi là cơ bản nhất, là xuất phát điểm của chủ nghĩa xã hội khoa học?
+[P 106]: Câu 25 (CLO2.1): Trong quá trình sản xuất vật chất hiện đại, ai là chủ thể của quá trình đó?
+[P 107]: Câu 26 (CLO2.1): Thuộc tính cơ bản nào là nguyên nhân chính khiến giai cấp công nhân trở thành đối kháng với giai cấp tư sản?
+[P 108]: Câu 27 (CLO2.1): Xã hội hóa và phân công lao động xã hội mới, các hình thức bóc lột giá trị thặng dư đã làm cho diện mạo của giai cấp công nhân hiện đại như thế nào?
+[P 109]: Câu 28 (CLO2.1): Những biến đổi của giai cấp công nhân hiện đại so với thời kỳ của Mác đã tác động như thế nào đến sứ mệnh của giai cấp công nhân trong xã hội tư bản?
+[P 110]: Câu 29 (CLO2.1): Hiện nay, cơ cấu ngành nghề của giai cấp công nhân đã thay đổi to lớn, nền công nghiệp hóa, tự động hóa, áp dụng phổ biến công nghệ thông tin, trí
+[P 111]: Câu 30 (CLO2.1): Cùng với sự tiến bộ của khoa học công nghệ, giai cấp công nhân có xu hướng “trí thức hóa” ngày càng tăng, trình độ tri thức làm bản chất giai cấp công nhân trong chủ nghĩa tư bản thay đổi như thế nào?
+[P 112]: Câu 31 (CLO2.1): Câu nói: “Điểm chủ yếu trong học thuyết của Mác là ở chỗ nó làm sáng tỏ vai trò lịch sử của giai cấp vô sản là người xây dựng chủ nghĩa xã hội&quot; là của ai?
+[P 113]: Câu 32 (CLO2.1): Do sự phát triển của sản xuất và văn minh, đời sống công nhân ở các nước tư bản chủ nghĩa phát triển đã thay đổi ra sao?
+[P 114]: Câu 33. (CLO2.1): Công nhân nước nào là đứa con đầu lòng của nền công nghiệp hiện đại?
+[P 115]: Câu 34 (CLO2.1): Những người làm công ăn lương phục vụ trong các ngành như y tế, giáo dục, văn hóa, dịch vụ (không liên quan trực tiếp tới sản xuất công nghiệp). Họ được gọi là gì?
+[P 116]: Câu 35 (CLO2.1): Sau khi cách mạng vô sản thành công, giai cấp công nhân sẽ thay đổi về địa vị xã hội như thế nào?
+[P 117]: Câu 36 (CLO2.1):Trải qua thời kỳ quá độ rất lâu dài khi xây dựng thành công chủ nghĩa cộng sản, bản thân giai cấp công nhân biến đổi thế nào?
+[P 118]: Câu 37 (CLO2.1): Ở Việt Nam cuối thế kỷ XIX, đầu thế kỷ XX giai cấp công nhân trước hết phải làm cuộc cách mạng gì?
+[P 119]: Câu 38 (CLO2.2): Giai đoạn thực hiện cách mạng dân tộc dân chủ nhân dân, giai cấp công nhân Việt Nam thực hiện sứ mệnh là lãnh đạo cuộc cách mạng thông qua lực lượng nào?
+[P 120]: Câu 39 (CLO2.2): Giai cấp nào sản sinh ra người đào huyệt chôn giai cấp tư sản?
+[P 121]: Câu 40 (CLO2.2): Một số phần tử cơ hội, xét lại đang phủ nhận thuyết Mác – Lênin về sứ mệnh lịch sử của giai cấp công nhân, họ nhận định giai cấp công nhân ngày nay thế nào?
+[P 122]: Câu 41 (CLO2.2): Thời đại ngày nay là thời đại của nền “văn minh trí tuệ”, của “kinh tế tri thức” do vậy lực lượng nào mới là lực lượng tiền phong, có vai trò lãnh đạo cách mạng?
+[P 123]: Câu 42 (CLO2.2): Trong xã hội, trí thức được gọi là gì?
+[P 124]: Câu 43 (CLO2.2): Trí thức theo và chịu ảnh hưởng hệ tư tưởng của giai cấp nào?
+[P 125]: Câu 44. (CLO2.2): Trong phương thức sản xuất tư bản chủ nghĩa và trong chế độ tư bản chủ nghĩa, mâu thuẫn giữa giai cấp công nhân (giai cấp vô sản) và giai cấp tư sản thể hiện như thế nào?
+[P 126]: Câu 45 (CLO2.2): Cuộc bãi công của 600 thợ nhuộm ở Chợ Lớn năm 1922, Nguyễn Ái Quốc nhận định như thế nào?
+[P 127]: Câu 46 (CLO2.2): Giai cấp công nhân Việt Nam, tuyệt đại bộ phận xuất thân từ giai cấp, tầng lớp nào trong xã hội?
+[P 128]: Từ trí thức nghèo, thất nghiệp và người lao động nghèo, buôn bán nhỏ ở thành thị Câu 47 (CLO2.2): Theo Lênin, nội dung của thời đại hiện nay là gì?
+[P 129]: Câu 48 (CLO2.2): Sự sụp đổ của chế độ chủ nghĩa xã hội ở Liên Xô và Đông Âu đã làm cho thời đại ngày nay thay đổi như thế nào?
+[P 130]: Câu 49 (CLO2.2): Trong những mâu thuẫn cơ bản của thời đại hiện nay, mâu thuẫn nào là nổi bật, xuyên suốt thời đại mang tính toàn cầu?
+[P 131]: Câu 50 (CLO2.2): Đặc điểm của giai cấp công nhân là gì?
+[P 132]: Câu 51 (CLO2.2): Vì sao giai cấp nông dân không thể lãnh đạo được cuộc cách mạng xã hội chủ nghĩa?
+[P 133]: Họ không có chính đảng, không đại diện cho phương thức sản xuất tiên tiến Câu 52 (CLO2.2): Đặc trưng cơ bản nhất của giai cấp công nhân nói chung là gì?
+[P 134]: Câu 53 (CLO2.2): Hiện nay giai cấp công nhân bán sức lao động chân tay và lao động trí óc thậm chí một số chủ yếu bán sức lao động với kỹ thuật cao, giá trị ngày càng lớn do đó họ bị bóc lột giá trị thặng dư như thế nào?
+[P 135]: Câu 54 (CLO2.2): Cùng với sự phát triển của khoa học và công nghệ ngày càng hiện đại, giai cấp công nhân thay đổi như thế nào?
+[P 136]: Câu 55 (CLO2.2): Hiện nay, có một số công nhân có cổ phần ở doanh nghiệp, sự thay đổi này dẫn tới thực tế gì ở các nước tư bản chủ nghĩa?
+[P 137]: Câu 56. (CLO2.2): Theo khái niệm giai cấp công nhân, về sở hữu đối với tư liệu sản xuất giai cấp công nhân sở hữu như thế nào?
+[P 138]: Câu 57 (CLO2.3): Nội dung sứ mệnh lịch sử của giai cấp công nhân là gì?
+[P 139]: Câu 58 (CLO2.3): Sứ mệnh lịch sử của giai cấp công nhân do các yếu tố khách quan nào quy định?
+[P 140]: Câu 59 (CLO2.3): Xét về phương thức lao động, phương thức sản xuất, giai cấp công nhân mang thuộc tính cơ bản nào?
+[P 141]: Câu 60 (CLO2.3): Vì sao giai cấp công nhân là giai cấp triệt để cách mạng?
+[P 142]: Câu 61 (CLO2.3): Trên thế giới, quy luật hình thành và phát triển Đảng cộng sản của giai cấp công nhân là gì?
+[P 143]: Câu 62 (CLO2.3): Quy luật hình thành và phát triển của Đảng cộng sản Việt Nam là gì?
+[P 144]: Câu 63 (CLO2.3): Theo khái niệm giai cấp công nhân, thì hình thành và phát triển của giai cấp công nhân gắn liền với sự phát triển nào?
+[P 145]: Câu 64 (CLO2.3): C. Mác và Ph.Ăngghen đã dựa vào những phát kiến nào để xây dựng luận chứng về sứ mệnh lịch sử của giai cấp công nhân?
+[P 146]: Câu 65 (CLO2.3): Thuộc tính cơ bản nào nói lên một trong những đặc trưng cơ bản dưới chế độ tư bản chủ nghĩa giai cấp công nhân còn gọi là giai cấp vô sản?
+[P 147]: Câu 66 (CLO2.3): Xét về phương thức lao động, phương thức sản xuất, giai cấp công nhân mang thuộc tính cơ bản nào?
+[P 148]: Câu 67 (CLO2.3): Xét trong quan hệ sản xuất tư bản chủ nghĩa giai cấp công nhân là giai cấp như thế nào?
+[P 149]: Câu 68 (CLO3.1). Lý luận về hình thái kinh tế - xã hội do C.Mác và Ph.Ăngghen khởi xướng, được V.I.Lênin bổ sung, phát triển, cụ thể hóa trong công cuộc xây dựng chủ nghĩa xã hội ở đâu?
+[P 150]: Nước Nga Xô viết [HIGHLIGHT: cyan]
