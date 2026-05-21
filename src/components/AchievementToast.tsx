@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import { useGameStore, Achievement } from "@/store/gameStore";
 import { motion, AnimatePresence } from "framer-motion";
 
@@ -12,49 +12,47 @@ interface ToastItem {
 export default function AchievementToast() {
   const achievements = useGameStore(state => state.player.achievements);
   const [activeToasts, setActiveToasts] = useState<ToastItem[]>([]);
-  const [prevAchievements, setPrevAchievements] = useState<Record<string, boolean>>({});
+  
+  // Dùng useRef thay thế useState để lưu trữ trạng thái trước đó tránh loop vô hạn
+  const prevUnlockedRef = useRef<Record<string, boolean>>({});
+  const isInitialized = useRef(false);
 
   useEffect(() => {
-    // On mount, cache existing unlock states
-    const states: Record<string, boolean> = {};
+    // Lưu các trạng thái mở khóa ban đầu khi component mount
     achievements.forEach(a => {
-      states[a.id] = a.unlocked;
+      prevUnlockedRef.current[a.id] = a.unlocked;
     });
-    setPrevAchievements(states);
+    isInitialized.current = true;
   }, []);
 
   useEffect(() => {
-    if (Object.keys(prevAchievements).length === 0) return;
+    if (!isInitialized.current) return;
 
-    // Detect newly unlocked achievements
+    // Phát hiện các thành tích vừa được mở khóa
     achievements.forEach(a => {
-      const wasUnlocked = prevAchievements[a.id];
+      const wasUnlocked = prevUnlockedRef.current[a.id];
       if (a.unlocked && wasUnlocked === false) {
         // Trigger Toast!
         const toastId = crypto.randomUUID();
         setActiveToasts(prev => [...prev, { id: toastId, achievement: a }]);
 
-        // Play achievement unlock sound (virtual trigger)
+        // Phát âm thanh khi đạt thành tích
         try {
           const sfx = new Audio("/sounds/achievement.mp3");
           sfx.volume = 0.5;
           sfx.play().catch(() => {});
         } catch (e) {}
 
-        // Auto remove toast after 4.5 seconds
+        // Tự động ẩn toast sau 4.5 giây
         setTimeout(() => {
           setActiveToasts(prev => prev.filter(t => t.id !== toastId));
         }, 4500);
       }
-    });
 
-    // Update cache
-    const currentStates: Record<string, boolean> = {};
-    achievements.forEach(a => {
-      currentStates[a.id] = a.unlocked;
+      // Cập nhật bộ nhớ đệm ẩn
+      prevUnlockedRef.current[a.id] = a.unlocked;
     });
-    setPrevAchievements(currentStates);
-  }, [achievements, prevAchievements]);
+  }, [achievements]);
 
   return (
     <div className="fixed top-24 left-1/2 -translate-x-1/2 z-50 flex flex-col gap-3 items-center pointer-events-none w-full max-w-sm">
